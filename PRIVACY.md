@@ -1,8 +1,8 @@
 # Grant Desk privacy policy
 
-Effective date: November 13, 2026
-Provider: Rizal
-Contact: https://github.com/d0txyz/grant-desk/issues
+- Effective date: November 13, 2026
+- Provider: Rizal
+- Contact: https://github.com/d0txyz/grant-desk/issues
 
 Grant Desk is an app for Atlassian Jira and Confluence that helps nonprofits find, plan and draft grant applications. This policy explains what data the app handles, where it is kept and what leaves Atlassian.
 
